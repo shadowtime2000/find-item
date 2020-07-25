@@ -1,0 +1,23 @@
+{
+  "name": "find-item",
+  "version": "1.0.0",
+  "browser": "./dist/browser.js",
+  "description": "A utility package to find an item that matches a condition from an array",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shadowtime2000/find-item.git"
+  },
+  "keywords": [
+    "array"
+  ],
+  "author": "shadowtime2000",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shadowtime2000/find-item/issues"
+  },
+  "homepage": "https://github.com/shadowtime2000/find-item#readme"
+}
